@@ -33,8 +33,7 @@ def main():
         col1, col2, col3 = st.columns([1, 2, 1])
         with col2:
             if st.button("Start Practicing", type="primary"):
-                st.session_state.started = True
-                st.rerun()
+                st.switch_page("pages/practice.py")
 
 if __name__ == "__main__":
     main() 

@@ -65,7 +65,7 @@ p {
 
 /* Button */
 .stButton > button {
-    background-color: black !important;
+    background-color: #0068c9 !important;
     color: white !important;
     font-size: 20px !important;
     font-weight: 600 !important;
