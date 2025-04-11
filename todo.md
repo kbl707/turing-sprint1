@@ -2,18 +2,18 @@
 # ✅ TODO Checklist - Decision-Making Interview Preparation App
 
 ## 🚀 Project Setup & Initial Configuration
-- [ ] Set up Python virtual environment (`venv` or `conda`)
-- [ ] Install Streamlit (`pip install streamlit`)
-- [ ] Install OpenAI Python client (`pip install openai`)
-- [ ] Initialize Git repository and commit initial setup
+- [x] Set up Python virtual environment (`venv` or `conda`)
+- [x] Install Streamlit (`pip install streamlit`)
+- [x] Install OpenAI Python client (`pip install openai`)
+- [x] Initialize Git repository and commit initial setup
 
 ## 📁 Project Structure
-- [ ] Create root folder structure (`app.py`, `prompts.py`, `validation.py`, `utils.py`, `config.py`, `requirements.txt`)
-- [ ] Add `.gitignore` for Python projects
+- [x] Create root folder structure (`app.py`, `prompts.py`, `validation.py`, `utils.py`, `config.py`, `requirements.txt`)
+- [x] Add `.gitignore` for Python projects
 
 ## 🔑 OpenAI API Integration
-- [ ] Register OpenAI account and obtain API key
-- [ ] Store OpenAI API key securely in environment variables
+- [x] Register OpenAI account and obtain API key
+- [x] Store OpenAI API key securely in environment variables
 - [ ] Implement API call function in `prompts.py`
 
 ## 🎨 User Interface Setup (Streamlit)
