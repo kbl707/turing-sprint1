@@ -40,8 +40,8 @@ Write tests confirming the input field and category selection are correctly capt
 ### Prompt 4: Scenario Generation & Display
 
 ```
-Enhance your app to dynamically generate realistic decision-making scenarios using the OpenAI API. 
-Define a structured system prompt in `prompts.py` that clearly instructs the AI to produce concise, practical scenarios (3–5 sentences), each containing one clear decision point with 3–4 multiple-choice answers.
+Enhance the app to dynamically generate realistic decision-making scenarios using the OpenAI API. 
+Define a structured *system* prompt in `prompts.py` that clearly instructs the AI to produce concise, practical scenarios (3–5 sentences), each containing one clear decision point with 3–4 multiple-choice answers.
 
 On category selection, fetch and display the first scenario, including the decision description and multiple-choice options, in a clear Streamlit layout.
 

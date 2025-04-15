@@ -34,6 +34,7 @@ h1 {
     max-width: 800px !important;
     margin-left: auto !important;
     margin-right: auto !important;
+    text-align: center !important;
 }
 
 /* Subheader */
@@ -47,16 +48,18 @@ h2 {
     max-width: 600px !important;
     margin-left: auto !important;
     margin-right: auto !important;
+    text-align: center !important;
 }
 
 h3, h4, h5, h6 {
     text-align: center !important;
     font-weight: 600 !important;
+    text-align: center !important;
 }
 
 /* Paragraphs */
 p {
-    text-align: center !important;
+    /* text-align: center !important; */
     max-width: 600px !important;
     margin-left: auto !important;
     margin-right: auto !important;
